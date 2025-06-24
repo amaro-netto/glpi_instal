@@ -104,7 +104,7 @@ Navegue pelos nossos guias de instalação detalhados para implantar o GLPI no a
 
 * **[Instalação do GLPI em Máquina Virtual (Debian 12)](https://github.com/amaro-netto/glpi_install/blob/main/virtual_machine.md)**
     * Um guia passo a passo para instalar o GLPI diretamente em uma VM ou servidor Debian 12 usando o stack LAMP tradicional. Ideal para quem busca controle total sobre o ambiente.
-* **[Instalação do GLPI com Docker Compose]([./glpi-install-docker-compose.md](https://github.com/amaro-netto/glpi_install/blob/main/docker_composer.md))** (A ser adicionado)
+* **[Instalação do GLPI com Docker Compose](https://github.com/amaro-netto/glpi_install/blob/main/docker_composer.md)** (A ser adicionado)
     * Em breve: um guia para implantar o GLPI usando contêineres Docker orquestrados com Docker Compose, facilitando a portabilidade, escalabilidade e gerenciamento de dependências.
 
 ---
