@@ -144,7 +144,7 @@ Este tutorial foi testado e validado com as seguintes versões das tecnologias:
 Este tutorial foi desenvolvido e testado por **[Seu Nome/GitHub Username Aqui]** em um ambiente de máquina virtual com as seguintes especificações:
 
 * **Sistema Operacional:** Debian 12 (Bookworm)
-* **Ambiente de Virtualização:** VirtualBox / VMware Workstation (especifique qual você usou)
+* **Ambiente de Virtualização:** VMware Workstation e ESXi 8 
 * **Recursos da VM:** 2 vCPUs, 4GB RAM, 40GB HDD (adapte conforme o que você usou)
 * **Acesso:** SSH e acesso web via IP local (`192.168.89.132`).
 
@@ -154,8 +154,8 @@ Este tutorial foi desenvolvido e testado por **[Seu Nome/GitHub Username Aqui]**
 
 Se você tiver dúvidas, sugestões ou encontrar problemas ao seguir este tutorial, sinta-se à vontade para:
 
-* Abrir uma [Issue neste repositório](link-para-issues-do-seu-repo).
-* Entrar em contato via [Seu Email] ou [Seu Perfil do LinkedIn/Outra Rede Social].
+* Abrir uma [Issue neste repositório](https://github.com/amaro-netto/glpi_install/issues).
+* Entrar em contato via [ti.amaronetto@gmail.com] ou [https://github.com/amaro-netto].
 
 ---
 
