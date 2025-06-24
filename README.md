@@ -155,7 +155,7 @@ Este tutorial foi desenvolvido e testado por **[Seu Nome/GitHub Username Aqui]**
 Se você tiver dúvidas, sugestões ou encontrar problemas ao seguir este tutorial, sinta-se à vontade para:
 
 * Abrir uma [Issue neste repositório](https://github.com/amaro-netto/glpi_install/issues).
-* Entrar em contato via [ti.amaronetto@gmail.com] ou [https://github.com/amaro-netto].
+* Entrar em contato via [E-mail](ti.amaronetto@gmail.com) ou [Perfil](https://github.com/amaro-netto).
 
 ---
 
