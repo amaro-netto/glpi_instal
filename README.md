@@ -141,7 +141,7 @@ Este tutorial foi testado e validado com as seguintes versões das tecnologias:
 
 ## Autor e Ambiente de Teste
 
-Este tutorial foi desenvolvido e testado por **[Amaro Netto/amaro-netto]** em um ambiente de máquina virtual com as seguintes especificações:
+Este tutorial foi desenvolvido e testado por **[Amaro Netto](https://github.com/amaro-netto)** em um ambiente de máquina virtual com as seguintes especificações:
 
 * **Sistema Operacional:** Debian 12 (Bookworm)
 * **Ambiente de Virtualização:** VMware Workstation e ESXi 8 
