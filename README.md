@@ -145,7 +145,7 @@ Este tutorial foi desenvolvido e testado por **[Amaro Netto](https://github.com/
 
 * **Sistema Operacional:** Debian 12 (Bookworm)
 * **Ambiente de Virtualização:** VMware Workstation e ESXi 8 
-* **Recursos da VM:** 2 vCPUs, 4GB RAM, 40GB HDD (adapte conforme o que você usou)
+* **Recursos da VM:** 2 vCPUs, 4GB RAM, 40GB HDD
 * **Acesso:** SSH e acesso web via IP local (`192.168.89.132`).
 
 ---
