@@ -77,7 +77,8 @@ GRANT ALL PRIVILEGES ON glpidb.* TO 'glpiuser'@'localhost';
 FLUSH PRIVILEGES;
 EXIT;
 ```
-**Atenção:** Substitua `sua_senha_segura` por uma senha forte e única para o seu usuário `glpiuser`.
+> [!WARNING]
+> Substitua `sua_senha_segura` por uma senha forte e única para o seu usuário `glpiuser`.
 
 ---
 
