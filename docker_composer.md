@@ -1,6 +1,6 @@
 # Instalação do GLPI com Docker Compose
 
-Este `README.md` detalha como configurar e executar o GLPI (Gestionnaire Libre de Parc Informatique) usando Docker Compose, baseado nos arquivos `docker-compose.yml` e `.env` fornecidos. Esta configuração utiliza uma imagem específica do GLPI e um banco de dados MariaDB.
+Este Documento detalha como configurar e executar o GLPI (Gestionnaire Libre de Parc Informatique) usando Docker Compose, baseado nos arquivos `docker-compose.yml` e `.env` fornecidos. Esta configuração utiliza uma imagem específica do GLPI e um banco de dados MariaDB.
 
 ## Pré-requisitos
 
@@ -45,7 +45,8 @@ MYSQL_PASSWORD=SUASENHA_DO_GLPI # Altere para uma senha forte
 TIMEZONE=America/Sao_Paulo
 ```
 
-**⚠️ IMPORTANTE:** Substitua `SUASENHA_ROOT_DO_MYSQL` e `SUASENHA_DO_GLPI` por senhas fortes e exclusivas. Este arquivo não deve ser versionado em repositórios públicos.
+> [!WARNING]
+> Substitua `SUASENHA_ROOT_DO_MYSQL` e `SUASENHA_DO_GLPI` por senhas fortes e exclusivas. Este arquivo não deve ser versionado em repositórios públicos.
 
 ## Passo 3: Criar o Arquivo `docker-compose.yml`
 
